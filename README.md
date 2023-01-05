@@ -1,5 +1,5 @@
-# RLL_ClinicalAutomation
+# ClinicalAutomation
 
-Welcome to our RLL Repository 
+Welcome to our Repository 
 
 Our team of Shravya, Kannan, Durgesh, Prasad, Sahid and Darshan say hi :)
